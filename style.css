@@ -1,0 +1,58 @@
+*{
+    box-sizing:content-box;
+    padding: 0%;
+    margin: 0%; 
+}
+
+html{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.contenedor-table{
+    background-color:#846b80;
+    width: 80%;
+    height: 80%;s
+    margin-top: 10%;
+    border-radius: 22px;
+    align-items: center;
+    margin-left: 10%;
+}
+.propiedades{
+    color: rgb(240, 219, 255) ;
+    font-size: 20px;
+    text-align: left;
+}
+
+header{
+    text-align:center;
+    color:rgb(240, 219, 255);
+    padding: 1% 2rem;
+    width: 100%;
+    font-size: 30px;
+}
+
+h1{
+    text-align: center;
+    margin-left: 10%;
+    color: rgb(240, 219, 255) ;
+    background-color:#846b80;
+    width: 80%;
+}
+
+.contenedor-button{
+    justify-content: auto;
+    background-position-x: center;
+    
+}
+
+#usuarios{
+    
+    align-self: center;
+    align-content: center;
+    background-position-y: center;
+    position: static;
+    margin-left: 90%;
+    width: 30%;
+    margin-top: 5%;
+}
+
